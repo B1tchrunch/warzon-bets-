@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m “hello friends”
+git remote add origin https://github.com/B1tchrunch/warzon-bets-/new/main
+git pull –rebase
+git push -f origin master
